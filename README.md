@@ -25,7 +25,7 @@ class YashwanthRaaj:
         self.name = "S Yashwanth Raaj"
         self.location = "Chennai, Tamil Nadu, India"
         self.degree = "B.E. CSE (AI & ML), Sri Sairam Engineering College"
-        self.cgpa = "9.52 / 10.0 (Semester 1)"
+        self.cgpa = "9.36 / 10.0 (Semester 1)"
 
         self.stack = {
             "languages": ["Python", "Java", "C", "C++"],
